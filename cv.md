@@ -11,6 +11,7 @@
 -  C++ 
 -  Java 
 ## Code Example
+![Code Example](сиви.PNG)
 ## Experience
 ## Education
 - University: Peking University, Beijing, China
