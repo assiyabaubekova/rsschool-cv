@@ -1,2 +1,3 @@
 # rsschool-cv
-init: start cv-task
+# init: start cv-task
+# feat: add banner
